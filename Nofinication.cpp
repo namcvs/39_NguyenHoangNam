@@ -5,5 +5,5 @@ int main()
     cout<<"STT 39 hello guys !";
     cout<<"STT 76 NguyenVanCanh hello Hoang Nam!";
     cout<<"1.2..3";
-   cout<<"2..3.1";
+   cout<<"test vui";
 }
