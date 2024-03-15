@@ -5,7 +5,7 @@ int main()
     cout<<"STT 39 hello guys !";
     cout<<"STT 76 NguyenVanCanh hello Hoang Nam!";
 
-    cout<<"coming soon";
-    cout<<"2..3.1";
+    cout<<"coming soon !";
+    cout<<"2.4.1";
 
 }
